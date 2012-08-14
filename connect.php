@@ -17,6 +17,7 @@ echo 'Connected to database ' . DB_NAME . "\n";
 
 /**
 Copy edited on my local machine
+MacBook Air
 */
 
 ?>
