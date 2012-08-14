@@ -14,4 +14,9 @@ echo mysql_error() . "\n";
 exit;
 }
 echo 'Connected to database ' . DB_NAME . "\n";
+
+/**
+Copy edited on my local machine
+*/
+
 ?>
